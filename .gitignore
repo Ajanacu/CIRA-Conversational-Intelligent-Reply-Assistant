@@ -1,0 +1,27 @@
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Database (local only — don't share user data)
+*.db
+*.sqlite3
+backend/app.db
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
