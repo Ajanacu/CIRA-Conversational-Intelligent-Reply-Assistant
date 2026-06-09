@@ -21,7 +21,7 @@
 - 👥 **Multi-user** — Login system with isolated data per user
 - 💰 **Credit Efficient** — Uses Claude Haiku; analysis cached (no repeat costs)
 
----
+```
 
 ## 🗂 Project Structure
 whatsapp_reply_assistant/
@@ -43,7 +43,7 @@ whatsapp_reply_assistant/
 ├── .env.example
 └── README.md
 
----
+```
 
 ## 🚀 Quick Start
 
